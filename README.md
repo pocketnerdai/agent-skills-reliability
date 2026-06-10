@@ -19,7 +19,7 @@ A skill is a Markdown file (`skills/<name>/SKILL.md`) with YAML frontmatter — 
 Clone the pack somewhere your agent can read:
 
 ```bash
-git clone https://github.com/grandcanyon-computers/agent-skills-reliability.git
+git clone https://github.com/pocketnerdai/agent-skills-reliability.git
 ```
 
 Then point your agent at the `skills/` directory. With **Claude Code**, the common patterns are:

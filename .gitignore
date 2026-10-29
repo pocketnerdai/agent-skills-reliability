@@ -38,3 +38,7 @@ coverage/
 # Logs
 *.log
 logs/
+
+# Local env, secrets and build folders (repo screen 2026-10-28)
+.dev.vars
+.wrangler/
